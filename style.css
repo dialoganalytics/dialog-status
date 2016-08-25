@@ -95,9 +95,9 @@ img {
 .navigation-title {
 	color: #606c76;
 	display: inline;
-	font-family: 'Gotham Rounded A', 'Gotham Rounded B', 'Helvetica Neue', Arial, sans-serif;
 	line-height: 5.2rem;
 	font-size: 1.6rem;
+	letter-spacing: 0;
 	padding: 0;
 	position: relative;
 	text-decoration: none;
